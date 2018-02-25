@@ -28,6 +28,7 @@ I think this works, but not sure https://smdavis.us/projects/menulibre/
 ### [Xcode](https://developer.apple.com) by [@apple](https://github.com/apple)
 
 ![Cobalt 2](./linux/xcode.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fvscode-icons.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fvscode-icons?ref=badge_shield)
 
 ### Stranger Things
 
@@ -82,3 +83,7 @@ You can get in touch with me at Twitter: [@dhanishgajjar](https://twitter.com/dh
 
 I post awesome stuff at
 Instagram: [@dhanishgajjar](https://instagram.com/dhanishgajjar)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fvscode-icons.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fvscode-icons?ref=badge_large)
